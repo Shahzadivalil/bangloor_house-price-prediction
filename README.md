@@ -50,7 +50,7 @@ Flask for deploying the model
 
 HTML/CSS for front-end UI
 
-🧪 How to Run Locally
+# 🧪 How to Run Locally
 1.Clone the repo:
 
 git clone https://github.com/your-username/bangalore-house-price-prediction.git
@@ -71,10 +71,10 @@ python app.py
 
 5.Open your browser and go to http://127.0.0.1:5000
 
-📈 Sample Screenshot
+# 📈 Sample Screenshot
 (Add a screenshot of your web interface here if available)
 
-📚 Reference Dataset
+# 📚 Reference Dataset
 Kaggle: Bangalore House Price Data
 
 🙌 Acknowledgements
