@@ -25,49 +25,49 @@ Tech Stack: Python, Pandas, Scikit-Learn, Matplotlib, Jupyter Notebook, Flask
 
 
 # 📊 Key Features
-# . Data Cleaning & Outlier Removal
+. Data Cleaning & Outlier Removal
 
-Location-based feature engineering
+. Location-based feature engineering
 
-Linear Regression Model for prediction
+. Linear Regression Model for prediction
 
-Flask-based Web Interface
+. Flask-based Web Interface
 
-Interactive UI for entering property details and predicting price
+. Interactive UI for entering property details and predicting price
 
 # 🛠️ Technologies Used
-Python
+. Python
 
-Pandas & NumPy for data manipulation
+. Pandas & NumPy for data manipulation
 
-Matplotlib & Seaborn for data visualization
+. Matplotlib & Seaborn for data visualization
 
-Scikit-learn for machine learning
+. Scikit-learn for machine learning
 
-Flask for deploying the model
+. Flask for deploying the model
 
-HTML/CSS for front-end UI
+. HTML/CSS for front-end UI
 
 # 🧪 How to Run Locally
-1.Clone the repo:
+1. Clone the repo:
 
 git clone https://github.com/your-username/bangalore-house-price-prediction.git
 cd bangalore-house-price-prediction
 
-2.Create a virtual environment and activate it:
+2. Create a virtual environment and activate it:
 
 python -m venv venv
 source venv/bin/activate   # On Windows: venv\Scripts\activate
 
-3.Install dependencies:
+3. Install dependencies:
 
 pip install -r requirements.txt
 
-4.Run the Flask app:
+4. Run the Flask app:
 
 python app.py
 
-5.Open your browser and go to http://127.0.0.1:5000
+5. Open your browser and go to http://127.0.0.1:5000
 
 # 📈 Sample Screenshot
 (Add a screenshot of your web interface here if available)
