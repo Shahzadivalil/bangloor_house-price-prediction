@@ -13,9 +13,7 @@ Approach: Data preprocessing → Feature Engineering → Model Training → Web 
 Tech Stack: Python, Pandas, Scikit-Learn, Matplotlib, Jupyter Notebook, Flask
 
 # 📂 Folder Structure
-php
-Copy
-Edit
+
 
 ├── data/                  # Dataset files
 ├── notebooks/             # Jupyter notebooks for EDA & model building
@@ -27,7 +25,7 @@ Edit
 
 
 # 📊 Key Features
-Data Cleaning & Outlier Removal
+# . Data Cleaning & Outlier Removal
 
 Location-based feature engineering
 
