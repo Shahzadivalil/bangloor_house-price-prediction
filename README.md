@@ -11,7 +11,7 @@ Objective: Predict the price per square foot of residential houses in Bangalore.
 Approach: Data preprocessing → Feature Engineering → Model Training → Web App Deployment
 
 Tech Stack: Python, Pandas, Scikit-Learn, Matplotlib, Jupyter Notebook, Flask
-
+---
 # 📂 Folder Structure
 
 
@@ -22,31 +22,31 @@ Tech Stack: Python, Pandas, Scikit-Learn, Matplotlib, Jupyter Notebook, Flask
 ├── static/                # Static files (CSS, JS)
 ├── banglore house price prediction.html   # Rendered notebook file
 └── README.md
-
+---
 
 # 📊 Key Features
-. Data Cleaning & Outlier Removal
+- Data Cleaning & Outlier Removal
 
-. Location-based feature engineering
+- Location-based feature engineering
 
-. Linear Regression Model for prediction
+- Linear Regression Model for prediction
 
-. Flask-based Web Interface
+- Flask-based Web Interface
 
-. Interactive UI for entering property details and predicting price
+- Interactive UI for entering property details and predicting price
 
 # 🛠️ Technologies Used
-. Python
+- Python
 
-. Pandas & NumPy for data manipulation
+- Pandas & NumPy for data manipulation
 
-. Matplotlib & Seaborn for data visualization
+- Matplotlib & Seaborn for data visualization
 
-. Scikit-learn for machine learning
+- Scikit-learn for machine learning
 
-. Flask for deploying the model
+- Flask for deploying the model
 
-. HTML/CSS for front-end UI
+- HTML/CSS for front-end UI
 
 # 🧪 How to Run Locally
 1. Clone the repo:
@@ -71,10 +71,10 @@ python app.py
 
 # 📈 Sample Screenshot
 (Add a screenshot of your web interface here if available)
-
+---
 # 📚 Reference Dataset
 Kaggle: Bangalore House Price Data
-
+---
 🙌 Acknowledgements
 Thanks to CodeBasics for the dataset and inspiration for this project.
 
