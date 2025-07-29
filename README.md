@@ -38,7 +38,7 @@ Tech Stack: Python, Pandas, Scikit-Learn, Matplotlib, Jupyter Notebook, Flask
 
 - Interactive UI for entering property details and predicting price
 
-# 🛠️ Technologies Used
+## 🛠️ Technologies Used
 - Python
 
 - Pandas & NumPy for data manipulation
@@ -51,7 +51,7 @@ Tech Stack: Python, Pandas, Scikit-Learn, Matplotlib, Jupyter Notebook, Flask
 
 - HTML/CSS for front-end UI
 
-# 🧪 How to Run Locally
+## 🧪 How to Run Locally
 1. Clone the repo:
 
 git clone https://github.com/your-username/bangalore-house-price-prediction.git
@@ -82,7 +82,7 @@ Kaggle: Bangalore House Price Data
 
 ---
 
-🙌 Acknowledgements
+## 🙌 Acknowledgements
 Thanks to CodeBasics for the dataset and inspiration for this project.
 
 
