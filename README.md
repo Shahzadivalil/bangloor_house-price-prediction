@@ -74,7 +74,7 @@ python app.py
 
 ## 📈 Sample Screenshot
 
-![Bangloor House Price Prediction ]_(./house web.png)
+![Bangloor House Price Prediction ](house web.png)
 
 ---
 
