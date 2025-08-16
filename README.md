@@ -18,10 +18,15 @@ Tech Stack: Python, Pandas, Scikit-Learn, Matplotlib, Jupyter Notebook, Flask
 
 
 ├── data/                  # Dataset files
+
 ├── notebooks/             # Jupyter notebooks for EDA & model building
+
 ├── app/                   # Flask web app
+
 ├── templates/             # HTML templates
+
 ├── static/                # Static files (CSS, JS)
+
 ├── banglore house price prediction.html   # Rendered notebook file
 └── README.md
 
@@ -72,16 +77,7 @@ python app.py
 
 5. Open your browser and go to http://127.0.0.1:5000
 
-## 📈 Sample Screenshot
 
-## 📸 Project Screenshot  
-
-Here’s how the web app looks:  
-
-![House Web App](./house web.png)
-
-
----
 
 ## 📚 Reference Dataset
 Kaggle: Bangalore House Price Data
