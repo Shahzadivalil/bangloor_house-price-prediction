@@ -74,7 +74,12 @@ python app.py
 
 ## 📈 Sample Screenshot
 
-![Bangloor House Price Prediction ](house web.png)
+## 📸 Project Screenshot  
+
+Here’s how the web app looks:  
+
+![House Web App](./house_web.png)
+
 
 ---
 
