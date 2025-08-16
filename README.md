@@ -73,7 +73,8 @@ python app.py
 5. Open your browser and go to http://127.0.0.1:5000
 
 ## 📈 Sample Screenshot
-(Add a screenshot of your web interface here if available)
+
+![bangloor_house_price_prediction](houseweb.png)
 
 ---
 
