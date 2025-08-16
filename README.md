@@ -78,7 +78,7 @@ python app.py
 
 Here’s how the web app looks:  
 
-![House Web App](./house_web.png)
+![House Web App](./house web.png)
 
 
 ---
