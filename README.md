@@ -86,9 +86,7 @@ Kaggle: Bangalore House Price Data
 
 ---
 
-## Link for the app:
-file:///C:/Users/shafe/Desktop/bangloore%20pickle%20file/client/app.html
----
+
 ## 🙌 Acknowledgements
 Thanks to CodeBasics for the dataset and inspiration for this project.
 
